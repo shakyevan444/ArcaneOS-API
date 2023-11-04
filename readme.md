@@ -1,9 +1,9 @@
-# ArcOS Backend Server
+# ArcaneOS Backend Server
 
 ## About
 
 this is the backend server which powers user and session management,
-filesystem and messaging (and prob more later) for [ArcOS' frontend](https://github.com/IzK-ArcOS/ArcOS-Frontend)
+filesystem and messaging (and prob more later) for [ArcaneOS' frontend](https://github.com/shakyevan444/ArcaneOS)
 
 ## Getting Started
 Before you continue, make sure you install the system prerequisites:
@@ -13,11 +13,11 @@ Before you continue, make sure you install the system prerequisites:
 
 Once the prerequisites are met, you can execute the following commands to **clone the API**, **Install dependencies** and **run it for the first time**:
 ```bash
-$ git clone https://github.com/IzK-ArcOS/ArcOS-API-Rewritten  # Clone repository
-$ cd ArcOS-API-Rewritten/
+$ git clone https://github.com/shakyevan444/ArcaneOS-API  # Clone repository
+$ cd ArcaneOS-API/
 
-$ python -m venv venv # Create virtual enviorment for ArcAPI
-$ py -m venv venv  # Create virtual enviroment for ArcAPI (Windows only)
+$ python -m venv venv # Create virtual enviorment for ArcaneAPI
+$ py -m venv venv  # Create virtual enviroment for ArcaneAPI (Windows only)
 
 # Activate virtual enviroment (you will need to do this each time when launching ArcAPI)
 # If on *nix:
